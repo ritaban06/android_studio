@@ -1,0 +1,5 @@
+<resources>
+    <string name="viewpager_description">Displays a set of images.</string>
+    <string name="app_name">FunnyStickers</string>
+
+</resources>
