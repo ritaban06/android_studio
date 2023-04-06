@@ -1,3 +1,0 @@
-com.example.bluescreenofdeath.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme

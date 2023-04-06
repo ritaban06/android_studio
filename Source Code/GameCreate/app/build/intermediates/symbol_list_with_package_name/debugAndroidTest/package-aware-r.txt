@@ -1,3 +1,0 @@
-com.example.endlessrunner2d.test
-style WhiteBackgroundDialogTheme
-style WhiteBackgroundTheme
